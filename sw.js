@@ -2,20 +2,16 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/4630078e5af6c70f488f.js",
-    "revision": "65a22df7e393f638c9ac38e3ccba96bf"
+    "url": "/_nuxt/191b6fae5904a1d1ce4a.css",
+    "revision": "5211a346c17acc72837ade43d07f0035"
   },
   {
     "url": "/_nuxt/48e8f86128918aa88aa7.js",
     "revision": "91bd7a91499e6f75dc96e5a53dc9d9bb"
   },
   {
-    "url": "/_nuxt/49479d6549fc29842e58.js",
-    "revision": "0b020d6473cac600dd3a4045eaa76c99"
-  },
-  {
-    "url": "/_nuxt/5b730f7b7b8723fa5764.css",
-    "revision": "d68d919c0294f64f91061c5f54caf998"
+    "url": "/_nuxt/76a3c25a73a7fed19556.js",
+    "revision": "3d0203ab7c73ff79da0471178d30a130"
   },
   {
     "url": "/_nuxt/79ff86439bd8c3b5f5d0.js",
@@ -26,12 +22,16 @@ workbox.precaching.precacheAndRoute([
     "revision": "c7a6fcdf5c0d57f85c653de1c0a7271f"
   },
   {
-    "url": "/_nuxt/cc03f6a35570c38e96f7.js",
-    "revision": "75caccb959e78a08502bf8be3791137d"
+    "url": "/_nuxt/b32134f9eae2a77ee8d2.js",
+    "revision": "8bcff6c19db7d9152d4d145fb6835675"
   },
   {
-    "url": "/_nuxt/e5dc704d0748bcc4c180.js",
-    "revision": "737b318351d916d99d107e9e8eba2489"
+    "url": "/_nuxt/b791c399c2f80a5bb804.js",
+    "revision": "0b020d6473cac600dd3a4045eaa76c99"
+  },
+  {
+    "url": "/_nuxt/cc03f6a35570c38e96f7.js",
+    "revision": "75caccb959e78a08502bf8be3791137d"
   }
 ], {
   "cacheId": "PHPulpo-Con-2019",
